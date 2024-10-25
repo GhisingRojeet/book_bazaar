@@ -1,10 +1,18 @@
-# amazon_clone
+# Book_Bazaar
 
-A new Flutter project.
+This is a cross-platform bookstore ecommerce mobile application.
 
 ## Getting Started
+Technologies used
+Flutter for UI development 
+Provider for state management
+MongoDB for database
+Nodejs for runtime environment
+Expressjs for backend development
+
 
 This project is a starting point for a Flutter application.
+This project is 
 
 A few resources to get you started if this is your first Flutter project:
 
